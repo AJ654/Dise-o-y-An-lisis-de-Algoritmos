@@ -1,3 +1,5 @@
+#Mayorquin Gallegos Angel de Jesus
+
 x = 22
 
 print("x = {: >6b}".format(x))        # Representación binaria de x
